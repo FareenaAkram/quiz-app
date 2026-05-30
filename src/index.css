@@ -28,8 +28,17 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
+   
 }
-
+/* 
+#root{
+   height: 100vh;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+} */
 header {
   margin: 2rem 0;
   text-align: center;
